@@ -13,11 +13,9 @@ yarn-error.log
 .env
 /public
 /resources
-/database
 /config
 /app
 /bootstrap
-/storage
 /tests
 
 
