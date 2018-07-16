@@ -13,7 +13,6 @@ yarn-error.log
 .env
 /public
 /resources
-/config
 /app
 /bootstrap
 /tests
